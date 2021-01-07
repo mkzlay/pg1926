@@ -41,7 +41,7 @@ echo '<br /><a href="sayfa2.php">2. Sayfa</a>';
 echo '<br /><a href="sayfa2.php?' . SID . '">2. Sayfa</a>';
 ```
 
-sayfa1.php gösterildikten sonra, ikinci sayfa sayfa2.php oturum verisini sihirli bir şekilde içerecektir. SID sabiti dahil, oturum kimliklerinin yayını hakkında bilgi edinmek için oturum eklentisini okuyun.
+sayfa1.php gösterildikten sonra, ikinci sayfa sayfa2.php oturum verisini sihirli bir şekilde içerecektir. SID sabiti dahil, oturum kimliklerinin yayını hakkında bilgi edinmek için oturum eklentisini okuyun. 
 
 ```php
 // sayfa2.php

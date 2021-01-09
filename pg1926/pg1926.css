@@ -29,7 +29,7 @@ ul{ margin:0; padding:0; }
 .menu li a:hover{ color:#000000; }
 .aktif { color:#000000 !important; }
 
-.ortakisim {
+.ortakisim { 
     width: 80%; height: 1000px;
     /* border:#000000 solid 10px; */
     margin:auto; padding: 15px; font-size:larger;
